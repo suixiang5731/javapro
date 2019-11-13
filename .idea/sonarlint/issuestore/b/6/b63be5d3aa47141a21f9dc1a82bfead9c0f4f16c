@@ -1,24 +1,26 @@
 
-jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(§É³±
-Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(³šñÕ
-;squid:S1659"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
-6squid:S1659" Declare "my" on a separate line.(‹ì™c
-O
-squid:S106$"9Replace this use of System.out or System.err by a logger.(ïë»Ã
 T
 squid:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+Msquid:S2696Z"6Make the enclosing method "static" or remove this set.(É³ûþ
+Msquid:S2696n"6Make the enclosing method "static" or remove this set.(«‡ÛÕ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(§É³±
+Fsquid:EmptyStatementUsageCheck"Remove this empty statement.(³šñÕ
+gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(Š÷ï¨ûÿÿÿÿ
+bsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(«‡ÛÕ
+bsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(àÙ±ã
+csquid:CommentedOutCodeLineŽ"<This block of commented-out lines of code should be removed.(·‘­¢
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(¯Þ´ƒùÿÿÿÿ
+;squid:S1659"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
+=squid:S1659Œ" Declare "my" on a separate line.(¿…Ÿ£ýÿÿÿÿ
+hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(øÝ¦øÿÿÿÿ
+<squid:S1659Œ"Declare "c" on a separate line.(¿…Ÿ£ýÿÿÿÿ
+6squid:S1659" Declare "my" on a separate line.(‹ì™c
 O
 squid:S106("9Replace this use of System.out or System.err by a logger.(Œæýü
-Msquid:S2696X"6Make the enclosing method "static" or remove this set.(É³ûþ
-Msquid:S2696l"6Make the enclosing method "static" or remove this set.(«‡ÛÕ
-=squid:S1659˜" Declare "my" on a separate line.(¿…Ÿ£ýÿÿÿÿ
-<squid:S1659˜"Declare "c" on a separate line.(¿…Ÿ£ýÿÿÿÿ
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ïë»Ã
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Åç··ùÿÿÿÿ8­èàôå-
 gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(›¾­€øÿÿÿÿ
-gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(‘Ç»¯øÿÿÿÿ
-gsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Š÷ï¨ûÿÿÿÿ
-gsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(¶¢¢–þÿÿÿÿ
-bsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(«‡ÛÕ
-bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(àÙ±ã
-csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(·‘­¢
-hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(¯Þ´ƒùÿÿÿÿ
-hsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(øÝ¦øÿÿÿÿ
+gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(‘Ç»¯øÿÿÿÿ
+gsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(¶¢¢–þÿÿÿÿ
