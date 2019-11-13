@@ -56,7 +56,7 @@ public class BoardTest {
             h[i].x = mx;
             h[i].y = my;
             h[i].waysOutNum = getWays(mx,my);
-            System.out.println(h[i]);
+//            System.out.println(h[i]);
 
         }
 
